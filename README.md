@@ -19,27 +19,6 @@ A Windows utility for managing Epic Mickey speedrun saves, launching the game vi
 
 ## Getting Started
 
-### Build from source
-
-```powershell
-cd "c:\Users\drezd\MickeySpeedrunTool"
-dotnet build
-```
-
-### Run
-
-```powershell
-dotnet run --project "c:\Users\drezd\MickeySpeedrunTool\MickeySpeedrunTool.csproj"
-```
-
-### Publish
-
-```powershell
-dotnet publish -c Release -r win-x64 --self-contained false
-```
-
-The published output will be available in `bin\Release\net8.0-windows\publish`.
-
 ## Usage
 
 1. Open the app.
