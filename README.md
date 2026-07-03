@@ -17,8 +17,6 @@ A Windows utility for managing Epic Mickey speedrun saves, launching the game vi
 - .NET 8 runtime
 - Steam installed for game launch support
 
-## Getting Started
-
 ## Usage
 
 1. Open the app.
@@ -44,8 +42,4 @@ A Windows utility for managing Epic Mickey speedrun saves, launching the game vi
 
 ## Release
 
-This project is currently ready for a `v1.0` release.
-
-## License
-
-Add your preferred license here.
+This project is currently in `v1.0` release.
