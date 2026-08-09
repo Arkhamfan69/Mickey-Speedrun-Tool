@@ -1,4 +1,4 @@
-9# Mickey Speedrun Tool
+# Mickey Speedrun Tool
 
 A Windows utility for managing Epic Mickey speedrun saves, launching the game via Steam, and installing UE4SS.
 
