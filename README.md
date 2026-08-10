@@ -8,7 +8,8 @@ A Windows utility for managing Epic Mickey speedrun saves, launching the game vi
 - Auto-detect UE4SS install path and install UE4SS from bundled source files
 - Manage save categories for `Any%`, `100%`, and `IL` runs
 - Browse and load save files by category and area
-- Configure the game save folder manually
+- Track Your Consistency With Different Tricks
+- Use Hotkeys To Load Save Files Super Quickly
 - Simple dashboard with key actions and status indicators
 
 ## Requirements
@@ -42,4 +43,4 @@ A Windows utility for managing Epic Mickey speedrun saves, launching the game vi
 
 ## Release
 
-This project is currently in `v1.1` release.
+This project is currently in `v1.2` release.
