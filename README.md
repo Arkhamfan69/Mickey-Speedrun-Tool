@@ -6,7 +6,7 @@ A Windows utility for managing Epic Mickey speedrun saves, launching the game vi
 
 - Launch the game through Steam
 - Auto-detect UE4SS install path and install UE4SS from bundled source files
-- Manage save categories for `Any%`, `100%`, and `IL` runs
+- Manage save categories for `Any%`, `NMG`, `100%`, and `IL` runs
 - Browse and load save files by category and area
 - Track Your Consistency With Different Tricks
 - Use Hotkeys To Load Save Files Super Quickly
