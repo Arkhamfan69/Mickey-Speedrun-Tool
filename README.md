@@ -28,19 +28,12 @@ A Windows utility for managing Epic Mickey speedrun saves, launching the game vi
 3. Open the `Saves` tab.
 4. Select a category like `Any%` or `100%`.
 5. Choose an area from the dropdown.
-6. Load the desired save folder.
-
-## Folder Structure
-
-- `Save Files/` contains bundled save categories
-- `Save Files/Any%` and `Save Files/100%` are expected to contain subfolders for run areas
-- `Save Files/IL's` contains flat IL save folders
+6. Load the desired save folder. 
 
 ## Notes
 
-- The save browser is designed to show top-level categories and then area-specific save folders.
 - If you want to distribute the app, package the published output and include the `Save Files` content if required.
 
 ## Release
 
-This project is currently in `v1.2` release.
+This project is currently in `v1.3` release.
